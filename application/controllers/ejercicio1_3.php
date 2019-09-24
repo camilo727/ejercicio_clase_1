@@ -16,7 +16,6 @@ class ejercicio1_3 extends CI_Controller
 		elseif ($numero<10) {
 			echo "el numero es menor que 10 ";
 		}
-		
 	}
 	public function ejercicio2()
 	{
